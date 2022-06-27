@@ -29,8 +29,6 @@ const Container = styled.div`
   }
 `;
 
-
-
 const Info = styled.div`
   display: flex;
   flex-direction: column;
@@ -133,9 +131,8 @@ const Card = ({ item, time }: any) => {
     <Container>
       <Info>
         <Flex>
-          <Title>{time}</Title>
+          <Title>{item.valueText}</Title>
           <Description>
-            <span>{item?.valuetext}</span>
             <Review>
               <span>value: </span>
               {item?.value}
