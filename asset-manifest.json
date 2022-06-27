@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sarthak-2019/Fear-Greed-Index/static/css/main.e271327d.css",
-    "main.js": "/sarthak-2019/Fear-Greed-Index/static/js/main.ca507a4d.js",
+    "main.js": "/sarthak-2019/Fear-Greed-Index/static/js/main.c600e85b.js",
     "static/media/unsplash.jpg": "/sarthak-2019/Fear-Greed-Index/static/media/unsplash.0c466f65cf4b8cfab198.jpg",
     "index.html": "/sarthak-2019/Fear-Greed-Index/index.html",
     "main.e271327d.css.map": "/sarthak-2019/Fear-Greed-Index/static/css/main.e271327d.css.map",
-    "main.ca507a4d.js.map": "/sarthak-2019/Fear-Greed-Index/static/js/main.ca507a4d.js.map"
+    "main.c600e85b.js.map": "/sarthak-2019/Fear-Greed-Index/static/js/main.c600e85b.js.map"
   },
   "entrypoints": [
     "static/css/main.e271327d.css",
-    "static/js/main.ca507a4d.js"
+    "static/js/main.c600e85b.js"
   ]
 }
